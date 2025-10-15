@@ -1,0 +1,16 @@
+
+
+
+// ! MATERI STYLING POSITION DI REACT NATIVE
+
+
+//! 1. APA ITU POSITION
+/*
+    POSITION ADALAH SALAH SATU PROPERTY UNTK MENGATUR POSISI DIMENSI COMPNENT
+*/
+
+//! 2. CARA MENGGUNAKANNYA
+/*
+    todo: position:value
+    * value (relative,absolute)
+*/
